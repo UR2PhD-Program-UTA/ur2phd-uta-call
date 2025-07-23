@@ -74,6 +74,10 @@ Completion requirements:
 - **REU Continuation Funding:** Up to $8,000 for undergrads who complete the course and submit a follow-up proposal  
 - **Ongoing Mentorship:** Graduate mentors may receive a $250/year continuation stipend
 
+## 🔗 External Resources
+
+- [Faculty Mentor Expectations](https://cra.org/ur2phd/for-faculty-mentors/faculty-mentor-expectations/)
+
 ---
 
 Questions? Contact Dr. Cesar Torres at [cearto@uta.edu](mailto:cearto@uta.edu)
