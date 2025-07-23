@@ -14,7 +14,7 @@ Are you a CSE undergraduate interested in research and graduate school? Apply to
   - Tuesdays 7–9PM CT  
   - Wednesdays 6–8PM CT  
 - Course runs from **September 23 – December 7, 2025**  
-- Must have **no more than 2 unexcused absences**
+- Must have **no more than 2 unexcused absences**, complete all assignments, pass course
 
 ## Compensation
 
@@ -22,7 +22,7 @@ Students who complete the course will receive a **$500 scholarship**, posted to 
 
 ## How to Apply
 
-Students may apply to **only one** project.
+Students may apply to **only one** project. Deadline is **Tuesday, September 2, 2025**, end of day. 
 
 - Prepare a short statement of interest  
 - Attach your resume and unofficial transcript  
