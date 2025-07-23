@@ -36,7 +36,6 @@ Welcome to the information hub for the Fall 2025 UR2PhD solicitation process at 
 ## 🔗 External Resources
 
 - [UR2PhD National Program](https://cra.org/ur2phd/)
-- [Faculty Mentor Expectations](https://cra.org/ur2phd/for-faculty-mentors/faculty-mentor-expectations/)
 
 ---
 
