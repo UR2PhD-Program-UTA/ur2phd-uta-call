@@ -67,7 +67,7 @@ Undergraduates who complete the course will receive a **$500 scholarship**, disb
 Completion requirements:
 
 - Attend and engage in sessions  
-- Complete all coursework  
+- Complete all coursework (Grade: 70+)
 - Have no more than 2 unexcused absences  
 
 ## Additional Benefits
