@@ -28,7 +28,7 @@ The cohort engages in a semester-long mentored research experience supported by 
 
 **Proposal deadline: Monday, August 19, 2025**
 
-We will fund up to **10 cohorts**  
+The CSE Department will fund up to **10 cohorts**  
 - $1,000 stipend for the grad mentor  
 - $500 scholarship for each undergrad  
 - Additional undergrads may join your project but must be supported with $500/student from non-grant funds (e.g., startup, IDC)
