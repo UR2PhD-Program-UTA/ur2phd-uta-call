@@ -14,7 +14,7 @@ Are you a CSE undergraduate interested in research and graduate school? Apply to
   - Tuesdays 7–9PM CT  
   - Wednesdays 6–8PM CT  
 - Course runs from **September 23 – December 7, 2025**  
-- Must have **no more than 2 unexcused absences**, complete all assignments, pass course
+- Must have **no more than 2 unexcused absences**, complete all assignments, pass course (70+)
 
 ## Compensation
 
@@ -26,11 +26,17 @@ Students may apply to **only one** project. Deadline is **Tuesday, September 2, 
 
 - Prepare a short statement of interest  
 - Attach your resume and unofficial transcript  
-- Submit your materials using the [Undergrad Application Form](#) (link coming soon)
+- Submit your materials using the [Undergrad Application Form](https://forms.office.com/r/zA3XusdpS1) 
 
 ## Available Faculty Projects
 
-- To Be Announced
+- To Be Announced Aug 26, 2025
+
+## External Resources
+
+- [UR2PhD Website - Undergraduates] (https://cra.org/ur2phd/for-undergraduate-students/) Note: You do not need to fill out the general UR2PhD application.
+
+
 ---
 
 Questions? Contact Dr. Cesar Torres at [cearto@uta.edu](mailto:cearto@uta.edu)
