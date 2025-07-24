@@ -3,7 +3,7 @@ layout: default
 title: Faculty Call – UR2PhD at UTA (Fall 2025)
 ---
 
-# Call for Faculty Proposals – UR2PhD at UTA (Fall 2025 Only)
+# Call for Faculty Proposals – UR2PhD at UTA (Fall 2025)
 
 We invite UTA faculty to submit proposals to lead a **UR2PhD research cohort** during **Fall 2025**.
 
