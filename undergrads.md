@@ -36,7 +36,7 @@ Students may apply to **only one** project. Deadline is **Tuesday, September 2, 
 
 ## External Resources
 
-- [UR2PhD Website - Undergraduates] (https://cra.org/ur2phd/for-undergraduate-students/) Note: You do not need to fill out the general UR2PhD application.
+- [UR2PhD Website - Undergraduates](https://cra.org/ur2phd/for-undergraduate-students/) Note: You do not need to fill out the general UR2PhD application.
 
 
 ---
