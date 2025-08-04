@@ -4,8 +4,9 @@ title: UR2PhD at UTA – Fall 2025
 ---
 
 # UR2PhD at UTA – Fall 2025
+The [UR2PhD National Program](https://cra.org/ur2phd/)(Undergraduate Research to PhD), run by the Computing Research Association, is a national initiative designed to bridge the gap between initial research experiences and successful PhD applications in computing. The program offers structured training—such as an undergraduate research methods course, graduate school application workshops, and mentor development training—to help students develop essential research skills and more confidently pursue doctoral study.
 
-Welcome to the information hub for the Fall 2025 UR2PhD solicitation process at the University of Texas at Arlington. UR2PhD is a national initiative to support undergraduate research experiences that lead to PhD pathways in computing.
+As of Summer 2025, UT Arlington CSE is an official institutional partner. Instead of applying directly through CRA, students apply via the CSE Department at UTA. This site provides department-specific guidance and serves as our local application portal for the Fall 2025 UR2PhD solicitation cycle. Please review full program details on the CRA UR2PhD website, and return here when you’re ready to submit your application.
 
 ## Opportunities
 
