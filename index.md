@@ -17,8 +17,8 @@ As of Summer 2025, UT Arlington CSE is an official institutional partner. Inst
 
 ### Faculty Proposal Phase
 - **August 5:** Faculty call opens  
-- **August 19:** Faculty proposals due  
-- **August 25:** Proposals selected; faculty notified  
+- **August ~~19~~ 23:** Faculty proposals due  
+- **August ~~25~~ 26:** Proposals selected; faculty notified  
 
 ### Undergraduate Matching Phase
 - **August 26 – September 2:** Undergraduate application period  
