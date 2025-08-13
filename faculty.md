@@ -26,7 +26,7 @@ The cohort engages in a semester-long mentored research experience supported by 
 - Two undergraduate researchers (must be able to enroll in the same undergrad course)  
   **or** clear criteria for selecting undergrads (e.g., GPA, courses, year)  
 
-**Proposal deadline: Saturday, August 23, 2025**
+**Proposal deadline: ~~Monday, August 19, 2025~~ Saturday, August 23, 2025**
 
 The CSE Department will fund up to **10 cohorts**  
 - $1,000 stipend for the grad mentor  
