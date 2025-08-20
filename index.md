@@ -37,7 +37,7 @@ As of Summer 2025, UT Arlington CSE is an official institutional partner. Inst
 ## 🔗 External Resources
 
 - [UR2PhD National Program](https://cra.org/ur2phd/)
-
+- [UR2PhD Proposal Assignment](https://docs.google.com/document/d/1llLSQ0c-rJrNHVVNjLEyODGBUtohXpKwAwcPNSW30Xs/edit?tab=t.0)
 ---
 
 For questions, please contact Dr. Cesar Torres at [cearto@uta.edu](mailto:cearto@uta.edu).
