@@ -31,7 +31,7 @@ As of Summer 2025, UT Arlington CSE is an official institutional partner. Inst
 
 ## 🗓️ Timeline & Deadlines (Existing Cohorts)
 
-- **September 1:** [REU Proposal due to CRA](https://cra.jotform.com/243544292087057)  
+- **September 1:** [Undergrads submit UR2PhD research Proposal to CRA](https://cra.jotform.com/243166491626865)  + [Faculty Mentor Application](https://cra.jotform.com/243166900979871) + [Continuing Grad Mentor Form](https://cra.jotform.com/243544292087057)
 - **Rolling:** [Travel Funding Request](https://cra.jotform.com/243115304588859)  
 
 ## 🔗 External Resources
