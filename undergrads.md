@@ -30,11 +30,14 @@ Students who complete the course will receive a **$500 scholarship**, posted to 
 
 ## How to Apply
 
-Students may apply to **only one** project. Deadline is **Tuesday, September 2, 2025**, end of day. 
+Students may apply to **only one** project. Deadline is **Tuesday, September 2, 2025**, end of day. Submit your materials using the [Undergrad Application Form](https://forms.office.com/r/zA3XusdpS1) 
 
-- Prepare a short statement of interest  
-- Attach your resume and unofficial transcript  
-- Submit your materials using the [Undergrad Application Form](https://forms.office.com/r/zA3XusdpS1) 
+The application will ask you for:
+
+- Academic information
+- Three short essays
+- Your resume/CV 
+
 
 ## Available Faculty Projects
 
