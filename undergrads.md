@@ -13,10 +13,11 @@ Are you a CSE undergraduate interested in research and graduate school? Apply to
 
 - Commit to work on a research project through Fall 2025  
 - Enroll in a virtual course (choose one):
-  - Tuesdays 7–9PM CT  
-  - Wednesdays 6–8PM CT  
+  - SESSION A: Tuesdays 7–9PM CT  
+  - SESSION B: Wednesdays 6–8PM CT  
 - Course runs from **September 23 – December 7, 2025**  
 - Must have **no more than 2 unexcused absences**, complete all assignments, pass course (70+)
+- Note: The course does not count towards UTA credit or your GPA; it is adminstered by the CRA organization.
 
 ## Compensation
 
@@ -32,7 +33,7 @@ Students may apply to **only one** project. Deadline is **Tuesday, September 2, 
 
 ## Available Faculty Projects
 
-- To Be Announced Aug 26, 2025
+- [Fall 2025 Projects](https://docs.google.com/document/d/e/2PACX-1vS_GJB-I0gnAVCP2OyoTiOutkprsqXx9XK6gheW52dpHPGs1ZWNBUW0AoLAeY4B1y3Mkt-NzZxMftm7/pub)
 
 ## External Resources
 
