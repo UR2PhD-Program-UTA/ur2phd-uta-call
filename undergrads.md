@@ -10,9 +10,9 @@ Are you a CSE undergraduate interested in research and graduate school? Apply to
 
 ## Timeline
 
-August 26 – September 2: Undergraduate application period
-September 3–7: Faculty review undergrad applicants
-September 8: Undergrads notified
+* August 26 – September 2: Undergraduate application period
+* September 3–7: Faculty review undergrad applicants
+* September 8: Undergrads notified
 
 ## Eligibility & Commitment
 
