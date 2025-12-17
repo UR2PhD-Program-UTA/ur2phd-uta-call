@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UR2PhD at UTA – Fall 2025
+title: Research Opportunities for Undergrads at UTA CSE
 ---
 # Research Opportunities for Undergrads at UTA CSE
 
