@@ -14,6 +14,8 @@ SPRING SEMESTER
 * January 26–28: Faculty review undergrad applicants
 * January 29-Feb 4: Offer notifications sent
 * Feb 5: Other notifications sent
+* April 14: Innovation Day
+* April 30: Submittables due (poster, summary)
 
 FALL SEMESTER
 * August 26 – September 2: Undergraduate application period
