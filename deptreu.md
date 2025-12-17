@@ -1,5 +1,5 @@
 # Classic CSE Dept REU Proposal
-- [Application Form](https://forms.office.com/r/RzaKTe3zuZ) **due Jan 19**
+[Application Form](https://forms.office.com/r/RzaKTe3zuZ) **due Jan 19**
   
 **For due dates and timelines, please review the [timetable](index.html).**
 
