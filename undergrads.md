@@ -33,6 +33,7 @@ FALL SEMESTER
 - For international students: Participation counts toward the 20 hours/week on-campus employment limit. Your total hours across this program plus any other on-campus work (paid or unpaid) must be 20 hours/week or less. If you plan to count hours already worked in a GRA position, that is allowed, but you cannot exceed 20 total hours/week. CPT is not supported by this program. 
 
 - Commit to work on a research project through the semester
+- The program is cohort-based -- you and your partner (selected by faculty) must attend the same course session.
 - Enroll in a virtual course (choose one):
   - SESSION A: Tuesdays 7–9PM CT  
   - SESSION B: Wednesdays 6–8PM CT  
