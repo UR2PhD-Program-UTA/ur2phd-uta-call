@@ -11,7 +11,7 @@ title: UR2PhD at UTA – Fall 2025
 - [Faculty Call for Proposals](faculty.html)
 - [Undergraduate Application Info](undergrads.html)
 
-## 🗓️ Timeline & Deadlines (New Cohorts) - Fall 2026
+## 🗓️ Timeline & Deadlines (New Cohorts) - Spring 2026
 
 ### Faculty Proposal Phase
 - **December 20:** Faculty call opens  
