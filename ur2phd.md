@@ -16,7 +16,7 @@ The UR2PhD program requires a cohort. The cohort engages in a semester-long ment
 - Two undergraduate researchers (must be able to enroll in the same undergrad course)  
   **or** clear criteria for selecting undergrads (e.g., GPA, courses, year)
 
-  ## Benefits
+## Benefits
 - $1,000 stipend for the grad mentor  
 - $500 scholarship for each undergrad  
 - Additional undergrads may join your project but must be supported with $500/student from non-grant funds (e.g., startup, IDC)
