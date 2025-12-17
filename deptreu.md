@@ -1,12 +1,12 @@
 # Classic CSE Dept REU Proposal
-- [Application Form](https://forms.office.com/r/RzaKTe3zuZ)
+- [Application Form](https://forms.office.com/r/RzaKTe3zuZ) **due Jan 19**
   
 **For due dates and timelines, please review the [timetable](index.html).**
 
 
 ### Requirements
 - Undergrad recruitment blurb (1-2 paragraphs), if you have not identified a candidate
-- Proposal (2 page max) - see [Template](https://ur2phd-program-uta.github.io/ur2phd-uta-call/template)
+- Proposal (2 page max) - see [Template](template.html)
 
 > **Note:** If undergraduates are not identified at submission, we will issue a call to CSE undergrads, gather applications, and allow you to select students.
 
