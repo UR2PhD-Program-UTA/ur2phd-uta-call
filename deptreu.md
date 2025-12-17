@@ -1,6 +1,7 @@
 # Classic CSE Dept REU Proposal
 - [Application Form](https://forms.office.com/r/RzaKTe3zuZ)
-** For due dates and timelines, please review the [timetable](index.html).**
+  
+**For due dates and timelines, please review the [timetable](index.html).**
 
 
 ### Requirements
