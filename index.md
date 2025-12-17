@@ -2,14 +2,12 @@
 layout: default
 title: UR2PhD at UTA – Fall 2025
 ---
+# Research Opportunities for Undergrads at UTA CSE
 
-# UR2PhD at UTA – Fall 2025
-The [UR2PhD National Program](https://cra.org/ur2phd/) (Undergraduate Research to PhD), run by the Computing Research Association, is a national initiative designed to bridge the gap between initial research experiences and successful PhD applications in computing. The program offers structured training—such as an undergraduate research methods course, graduate school application workshops, and mentor development training—to help students develop essential research skills and more confidently pursue doctoral study.
-
-As of Summer 2025, UT Arlington CSE is an official institutional partner. Instead of applying directly through CRA, students apply via the CSE Department at UTA. This site provides department-specific guidance and serves as our local application portal for the Fall 2025 UR2PhD solicitation cycle. Please review full program details on the CRA UR2PhD website, and return here when you’re ready to submit your application.
+- **UR2PhD at UTA**. The [UR2PhD National Program](https://cra.org/ur2phd/) (Undergraduate Research to PhD), run by the Computing Research Association, is a national initiative designed to bridge the gap between initial research experiences and successful PhD applications in computing. The program offers structured training—such as an undergraduate research methods course, graduate school application workshops, and mentor development training—to help students develop essential research skills and more confidently pursue doctoral study. As of Summer 2025, UT Arlington CSE is an official institutional partner. Instead of applying directly through CRA, students apply via the CSE Department at UTA. This site provides department-specific guidance and serves as our local application portal for the Fall 2025 UR2PhD solicitation cycle. Please review full program details on the CRA UR2PhD website, and return here when you’re ready to submit your application.
+- **Classic CSE REU**. The Classic CSE REU provides a flexible, department-run pathway for undergraduates to participate in mentored research during the semester. It is designed for students who want research experience without a required national course or cohort structure. Projects are mentored locally by CSE faculty and follow a lighter set of participation requirements, while still supporting meaningful progress toward a research deliverable.
 
 ## Opportunities
-
 - [Faculty Call for Proposals](faculty.html)
 - [Undergraduate Application Info](undergrads.html)
 
@@ -17,7 +15,7 @@ As of Summer 2025, UT Arlington CSE is an official institutional partner. Inst
 
 ### Faculty Proposal Phase
 - **December 20:** Faculty call opens  
-- **January 19:** Faculty proposals due  
+- **January 19:** Faculty proposals for UR2PhD or classic REU due  
 - **January 22:** Proposals selected; faculty notified  
 
 ### Undergraduate Matching Phase
