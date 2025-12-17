@@ -17,19 +17,15 @@
 ## 3) Research Plan
 
 * **Student work plan (3–6 bullets):** concrete tasks students will do (implement, run study, analyze data, build prototype, etc.)
+* **Evaluation plan:** how you will assess success (metrics, baselines, user study, ablation, qualitative analysis, etc.)
 * **Methods / resources:** tools, datasets, hardware, compute, or platforms required
-* **Semester timeline:** a simple milestone plan
-
-  * Weeks 1–3: onboarding + setup + background
-  * Weeks 4–9: core build / study / data collection
-  * Weeks 10–15: evaluation + writing + final deliverables
+* **Semester timeline:** a simple milestone plan (aim for 12 weeks)
 * **Feasibility and risks:** 1–2 risks plus a fallback plan
 
 ## 4) Intellectual Merit
 
 * **Expected technical or scientific contribution (1 paragraph):** what knowledge or capability will this add?
 * **Connection to prior work (brief):** 2–4 references or a short positioning statement
-* **Evaluation plan:** how you will assess success (metrics, baselines, user study, ablation, qualitative analysis, etc.)
 
 ## 5) Outcomes and REU Plan
 
@@ -39,7 +35,7 @@
 * **Stretch outcomes (optional):** demo, workshop submission, paper outline, open-source release, dataset release
 ---
 
-# Undergrad Recruitment Blurb (1 page max; optional if candidates are not identified)
+# Undergrad Recruitment Blurb (1 page max; required only if candidates are not identified)
 
 ## Project Overview
 
