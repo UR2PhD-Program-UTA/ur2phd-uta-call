@@ -49,7 +49,6 @@ Completion requirements:
 - Attend and engage in sessions  
 - Complete all coursework (Grade: 70+)
 - Have no more than 2 unexcused absences
-- Submit a final deliverable package: poster PDF + 1-2 page summary + link to artifacts (repo, design files, dataset, etc.) by April 30
 - Present at Innovation Day (April 14, 2026) or other conference 
 
 # Additional Benefits
