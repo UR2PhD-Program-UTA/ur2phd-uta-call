@@ -7,6 +7,7 @@ title: Faculty Call – UR2PhD + REU at UTA (Fall 2025)
 
 We invite UTA faculty to submit proposals to lead a **UR2PhD research cohort** or a classic **CSE Dept REU** during **Spring 2026**.
 - [Application Form](https://forms.office.com/r/RzaKTe3zuZ)
+- [Proposal Template](template.html)
   
 **For due dates and timelines, please review the [timetable](index.html).**
 
