@@ -35,8 +35,8 @@ FALL SEMESTER
 - Commit to work on a research project through the semester
 - The program is cohort-based -- you and your partner (selected by faculty) must attend the same course session.
 - Enroll in a virtual course (choose one):
-  - SESSION A: Tuesdays 7–9PM CT  
-  - SESSION B: Wednesdays 6–8PM CT  
+  - SESSION A: Wednesdays 7–9PM CT  
+  - SESSION B: Thursdays 6–8PM CT  
 - Course runs from **February 18 – April 30, 2026**  
 - Must have **no more than 2 unexcused absences**, complete all assignments, pass course (70+)
 - Note: The course does not count towards UTA credit or your GPA; it is adminstered by the CRA organization.
