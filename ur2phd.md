@@ -10,8 +10,8 @@ The UR2PhD program requires a cohort. The cohort engages in a semester-long ment
 - 2 undergraduate researchers  
 
 ## Requirements
-- Undergrad recruitment blurb (1-2 paragraphs), if you have not identified candidates
-- Proposal (2 page max) - see [Template](https://ur2phd-program-uta.github.io/ur2phd-uta-call/template)
+- Undergrad recruitment blurb, if you have not identified candidates - see [Template](template.html)
+- Proposal (2 page max)  - see [Template](template.html)
 - Identified graduate mentor (must be able to enroll in the grad course); graduate mentors who have completed the course are eligible for the continuing mentor stipend  
 - Two undergraduate researchers (must be able to enroll in the same undergrad course)  
   **or** clear criteria for selecting undergrads (e.g., GPA, courses, year)
