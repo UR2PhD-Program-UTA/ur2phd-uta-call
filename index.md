@@ -13,10 +13,23 @@ title: UR2PhD at UTA – Fall 2025
 
 ## 🗓️ Timeline & Deadlines (New Cohorts) - Spring 2026
 
+
+
 ### Faculty Proposal Phase
 - **December 20:** Faculty call opens  
 - **January 19:** Faculty proposals for UR2PhD or classic REU due  
 - **January 22:** Proposals selected; faculty notified  
+
+### UR2PhD Course Times
+Graduate Mentors (choose one):
+- A: Tuesdays, 11AM–12PM CT (12–1PM ET)  
+- B: Wednesdays, 2–3PM CT (3–4PM ET)  
+**Course Dates: February 10 – April 22, 2026**
+  
+Undergraduates (choose one):
+- A: Wednesdays, 7–9PM CT (8–10PM ET)  
+- B: Thursday, 6–8PM CT (7–9PM ET)  
+**Course Dates: Feb 18 – April 30, 2026**
 
 ### Undergraduate Matching Phase
 - **January 23-27:** Undergraduate application period  
@@ -25,8 +38,8 @@ title: UR2PhD at UTA – Fall 2025
 - **Feb 5**: Other notifications
 
 ## Deliverables
-- ** April 14**: Innovation Day Presentation
-- ** April 30**: Submittables due (Poster + Summary)
+- **April 14**: Innovation Day Presentation
+- **April 30**: Submittables due (Poster + Summary)
 
 ### UR2PhD Course Periods
 - **February 9 – December 10:** Graduate mentor course  
