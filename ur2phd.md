@@ -1,5 +1,5 @@
 # UR2PhD Proposal
-- [Application Form](https://forms.office.com/r/RzaKTe3zuZ)
+[Application Form](https://forms.office.com/r/RzaKTe3zuZ)
 
 The UR2PhD program requires a cohort. The cohort engages in a semester-long mentored research experience supported by a national UR2PhD curriculum designed to build research identity and prepare students for graduate school. The cohort consists of:
 
@@ -56,7 +56,7 @@ Completion requirements:
 - Attend and engage in sessions  
 - Complete all coursework (Grade: 70+)
 - Have no more than 2 unexcused absences
-- Submit a final deliverable package: poster PDF + 1-2 page summary + link to artifacts (repo, design files, dataset, etc.)
+- Submit a final deliverable package: poster PDF + 1-2 page summary + link to artifacts (repo, design files, dataset, etc.) by April 30
 - Present at Innovation Day (April 14, 2026) or other conference 
 
 # Additional Benefits
@@ -70,5 +70,9 @@ Completion requirements:
 - [Faculty Mentor Expectations](https://cra.org/ur2phd/for-faculty-mentors/faculty-mentor-expectations/)
 
 ---
+
+
+
+
 
 Questions? Contact Dr. Cesar Torres at [cearto@uta.edu](mailto:cearto@uta.edu)
