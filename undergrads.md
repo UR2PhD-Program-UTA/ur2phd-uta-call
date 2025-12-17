@@ -6,7 +6,7 @@ title: Undergraduate Call - Research Experiences at CSE UTA
 # Call for Undergraduate Applications - Research Experiences
 
 Are you a CSE undergraduate interested in research and graduate school? Apply to join a **UR2PhD research cohort** or a **classic CSE Dept REU** this semester!
-- [Undergrad Application Form](https://forms.office.com/r/zA3XusdpS1) 
+- [Undergrad Application Form](https://forms.office.com/r/zA3XusdpS1) **due Jan 27** 
 
 ## Timeline
 **For due dates and timelines, please review the [timetable](index.html).**
