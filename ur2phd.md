@@ -1,6 +1,8 @@
 # UR2PhD Proposal
 [Application Form](https://forms.office.com/r/RzaKTe3zuZ)
 
+**For due dates and timelines, please review the [timetable](index.html).**
+
 The UR2PhD program requires a cohort. The cohort engages in a semester-long mentored research experience supported by a national UR2PhD curriculum designed to build research identity and prepare students for graduate school. The cohort consists of:
 
 - 1 faculty mentor  
@@ -12,11 +14,9 @@ The UR2PhD program requires a cohort. The cohort engages in a semester-long ment
 - Proposal (2 page max) - see [Template](https://ur2phd-program-uta.github.io/ur2phd-uta-call/template)
 - Identified graduate mentor (must be able to enroll in the grad course); graduate mentors who have completed the course are eligible for the continuing mentor stipend  
 - Two undergraduate researchers (must be able to enroll in the same undergrad course)  
-  **or** clear criteria for selecting undergrads (e.g., GPA, courses, year)  
+  **or** clear criteria for selecting undergrads (e.g., GPA, courses, year)
 
-**Proposal deadline: January 19, 2026
-
-The CSE Department will fund up to **10 cohorts**  
+  ## Benefits
 - $1,000 stipend for the grad mentor  
 - $500 scholarship for each undergrad  
 - Additional undergrads may join your project but must be supported with $500/student from non-grant funds (e.g., startup, IDC)
@@ -25,11 +25,8 @@ The CSE Department will fund up to **10 cohorts**
 
 # Graduate Mentor Expectations & Compensation
 
-Graduate mentors enroll in a national virtual course (choose one):
-- Tuesdays, 11AM–12PM CT (12–1PM ET)  
-- Wednesdays, 2–3PM CT (3–4PM ET)  
-
-**Course Dates: February 10 – April 22, 2026**
+Graduate mentors enroll in a national virtual course: 
+**For course dates/times, please review the [timetable](index.html).**
 
 To receive the **$1,000 stipend** (paid directly by CRA), mentors must:
 
@@ -42,12 +39,8 @@ To receive the **$1,000 stipend** (paid directly by CRA), mentors must:
 
 # Undergraduate Participation
 
-Undergrads will also enroll in a national virtual course (choose one):
-
-- Wednesdays, 7–9PM CT (8–10PM ET)  
-- Thursday, 6–8PM CT (7–9PM ET)  
-
-**Course Dates: Feb 18 – April 30, 2026**
+Undergrads will also enroll in a national virtual course.
+**For course dates/times, please review the [timetable](index.html).**
 
 Undergraduates who complete the course will receive a **$500 scholarship**, disbursed via myMav in Spring 2026.
 
