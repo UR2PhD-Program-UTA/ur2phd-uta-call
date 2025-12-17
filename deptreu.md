@@ -9,7 +9,7 @@
 
 > **Note:** If undergraduates are not identified at submission, we will issue a call to CSE undergrads, gather applications, and allow you to select students.
 
-# Benefits
+### Benefits
 Undergraduates who complete the course will receive a **$500 scholarship**, disbursed via myMav in Spring 2026.
 
 Completion requirements:
