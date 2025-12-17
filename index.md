@@ -13,14 +13,21 @@ title: Research Opportunities for Undergrads at UTA CSE
 
 ## 🗓️ Timeline & Deadlines (New Cohorts) - Spring 2026
 
+- **Faculty Proposal Phase**
+  - **December 20:** Faculty call opens  
+  - **January 19:** Faculty proposals for UR2PhD or classic REU due  
+  - **January 22:** Proposals selected; faculty notified  
+- **Undergraduate Matching Phase**
+  - **January 23-27:** Undergraduate application period
+  - **January 27:** Undergraduate apps for UR2PhD or classic REU due  
+  - **January 28-30:** Faculty review undergrad applicants  
+  - **February 31- Feb 4:** Offer notifications
+  - **Feb 5**: Other notifications
+- **Deliverables**
+  - **April 14**: Innovation Day Presentation (both tracks)
+  - **April 30**: Submittables due (Poster + Summary) (classic REU only)
 
-
-### Faculty Proposal Phase
-- **December 20:** Faculty call opens  
-- **January 19:** Faculty proposals for UR2PhD or classic REU due  
-- **January 22:** Proposals selected; faculty notified  
-
-### UR2PhD Course Times
+## Course Times (UR2PhD only)
 Graduate Mentors (choose one):
 - A: Tuesdays, 11AM–12PM CT (12–1PM ET)  
 - B: Wednesdays, 2–3PM CT (3–4PM ET)  
@@ -31,19 +38,6 @@ Undergraduates (choose one):
 - B: Thursday, 6–8PM CT (7–9PM ET)  
 **Course Dates: Feb 18 – April 30, 2026**
 
-### Undergraduate Matching Phase
-- **January 23-27:** Undergraduate application period  
-- **January 28-30:** Faculty review undergrad applicants  
-- **February 31- Feb 4:** Offer notifications
-- **Feb 5**: Other notifications
-
-## Deliverables
-- **April 14**: Innovation Day Presentation
-- **April 30**: Submittables due (Poster + Summary)
-
-### UR2PhD Course Periods
-- **February 9 – December 10:** Graduate mentor course  
-- **February 10 – February 22:** Undergraduate course  
 
 ## 🗓️ Timeline & Deadlines (Existing Cohorts)
 
