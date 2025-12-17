@@ -13,25 +13,31 @@ As of Summer 2025, UT Arlington CSE is an official institutional partner. Inst
 - [Faculty Call for Proposals](faculty.html)
 - [Undergraduate Application Info](undergrads.html)
 
-## 🗓️ Timeline & Deadlines (New Cohorts)
+## 🗓️ Timeline & Deadlines (New Cohorts) - Fall 2026
 
 ### Faculty Proposal Phase
-- **August 5:** Faculty call opens  
-- **August ~~19~~ 23:** Faculty proposals due  
-- **August ~~25~~ 26:** Proposals selected; faculty notified  
+- **December 20:** Faculty call opens  
+- **January 19:** Faculty proposals due  
+- **January 22:** Proposals selected; faculty notified  
 
 ### Undergraduate Matching Phase
-- **August 26 – September 2:** Undergraduate application period  
-- **September 3–7:** Faculty review undergrad applicants  
-- **September 8:** Undergrads notified  
+- **January 23-27:** Undergraduate application period  
+- **January 28-30:** Faculty review undergrad applicants  
+- **February 31- Feb 4:** Offer notifications
+- **Feb 5**: Other notifications
 
-### Course Periods
-- **September 9 – December 10:** Graduate mentor course  
-- **September 23 – December 7:** Undergraduate course  
+## Deliverables
+- ** April 14**: Innovation Day Presentation
+- ** April 30**: Submittables due (Poster + Summary)
+
+### UR2PhD Course Periods
+- **February 9 – December 10:** Graduate mentor course  
+- **February 10 – February 22:** Undergraduate course  
 
 ## 🗓️ Timeline & Deadlines (Existing Cohorts)
 
-- **September 1:** [Undergrads submit UR2PhD research Proposal to CRA](https://cra.jotform.com/243166491626865)  + [Faculty Mentor Application](https://cra.jotform.com/243166900979871) + [Continuing Grad Mentor Form](https://cra.jotform.com/243544292087057)
+- **February 28, 2026** [Undergrads submit UR2PhD research Proposal to CRA](https://cra.jotform.com/243166491626865)  + [Faculty Mentor Application](https://cra.jotform.com/243166900979871) + [Continuing Grad Mentor Form](https://cra.jotform.com/243544292087057)
+  - Notifications: March 16, 2026
 - **Rolling:** [Travel Funding Request](https://cra.jotform.com/243115304588859)  
 
 ## 🔗 External Resources
