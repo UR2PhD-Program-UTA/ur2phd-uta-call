@@ -1,4 +1,5 @@
-# Proposal Template (2 pages max)
+# Proposal Template 
+1-2 pages, excluding citations, 1 inch margin, NSF style
 
 ## 1) Project Overview
 
