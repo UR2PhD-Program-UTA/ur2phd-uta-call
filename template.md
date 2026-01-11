@@ -53,7 +53,7 @@ A student-facing description (1–2 short paragraphs) that explains:
 
 * **Core research goal** (1–2 sentences)
 * **Student tasks (3–6 bullets)** written as concrete actions
-* **Prerequisites:** required vs preferred skills/tools (only if recruiting)
+* **Prerequisites:** required vs preferred skills/tools
 
 ## Selection Criteria
 
