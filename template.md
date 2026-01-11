@@ -5,6 +5,7 @@
 * **Title**
 * **Faculty mentor** (and lab/group if helpful)
 * **Program track:** Classic CSE Dept REU **or** UR2PhD
+* **Undergraduate(s) identified (if applicable)** -- Name + Email
 * **Project summary (abstract-level, 150–250 words):** written for a mixed CSE audience. State the problem, your approach, and why it matters.
 
 
@@ -15,12 +16,12 @@
 * **Scope and assumptions:** what is in-scope vs out-of-scope for one semester?
 
 ## 3) Research Plan
-
 * **Student work plan (3–6 bullets):** concrete tasks students will do (implement, run study, analyze data, build prototype, etc.)
 * **Evaluation plan:** how you will assess success (metrics, baselines, user study, ablation, qualitative analysis, etc.)
 * **Methods / resources:** tools, datasets, hardware, compute, or platforms required
 * **Semester timeline:** a simple milestone plan (aim for 12 weeks)
 * **Feasibility and risks:** 1–2 risks plus a fallback plan
+* **Identified undergraduate(s) qualifications (if applicable) **
 
 ## 4) Intellectual Merit
 
@@ -35,7 +36,9 @@
 * **Stretch outcomes (optional):** demo, workshop submission, paper outline, open-source release, dataset release
 ---
 
+
 # Undergrad Recruitment Blurb (1 page max; required only if candidates are not identified)
+
 
 ## Project Overview
 
