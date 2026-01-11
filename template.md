@@ -21,7 +21,7 @@
 * **Methods / resources:** tools, datasets, hardware, compute, or platforms required
 * **Semester timeline:** a simple milestone plan (aim for 12 weeks)
 * **Feasibility and risks:** 1–2 risks plus a fallback plan
-* **Identified undergraduate(s) qualifications (if applicable) **
+* **Identified undergraduate(s) qualifications (if applicable)**
 
 ## 4) Intellectual Merit
 
