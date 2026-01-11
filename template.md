@@ -38,8 +38,8 @@
 ---
 
 
-# Undergrad Recruitment Blurb (1 page max; required only if candidates are not identified)
-
+# Undergrad Recruitment Blurb 
+1 page max; required only if candidates are not identified
 
 ## Project Overview
 
