@@ -21,7 +21,7 @@ title: Research Opportunities for Undergrads at UTA CSE
   - **January 23-27:** Undergraduate application period
   - **January 27:** Undergraduate apps for UR2PhD or classic REU due  
   - **January 28-30:** Faculty review undergrad applicants  
-  - **February 31- Feb 4:** Offer notifications
+  - **January 31- Feb 4:** Offer notifications
   - **Feb 5**: Other notifications
 - **Deliverables**
   - **April 14**: Innovation Day Presentation (both tracks)
