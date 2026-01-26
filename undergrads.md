@@ -62,7 +62,7 @@ The application will ask you for:
 * For international students, it is treated as training, so there is **no program-imposed 20-hour limit**, but you should still confirm eligibility with OIE
 
 ## Available Faculty Projects
-- [Spring 2026 Projects] (https://drive.google.com/drive/folders/12QAVMpdXExWwBSbvvnsNkKs7iAHydKqJ?usp=sharing)
+- [Spring 2026 Projects](https://drive.google.com/drive/folders/12QAVMpdXExWwBSbvvnsNkKs7iAHydKqJ?usp=sharing)
 
 ## External Resources
 - [UR2PhD Website - Undergraduates](https://cra.org/ur2phd/for-undergraduate-students/) Note: You do not need to fill out the general UR2PhD application.
