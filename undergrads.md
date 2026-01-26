@@ -6,7 +6,7 @@ title: Undergraduate Call - Research Experiences at CSE UTA
 # Call for Undergraduate Applications - Research Experiences
 
 Are you a CSE undergraduate interested in research and graduate school? Apply to join a **UR2PhD research cohort** or a **classic CSE Dept REU** this semester!
-- [Undergrad Application Form](https://forms.office.com/r/zA3XusdpS1) **due Jan 27** 
+- [Undergrad Application Form](https://forms.office.com/r/zA3XusdpS1) **due Jan 30** 
 
 ## Timeline
 **For due dates and timelines, please review the [timetable](index.html).**
@@ -62,8 +62,7 @@ The application will ask you for:
 * For international students, it is treated as training, so there is **no program-imposed 20-hour limit**, but you should still confirm eligibility with OIE
 
 ## Available Faculty Projects
-- Spring 2026 Projects -- Check back. UR2PhD versus classic REU are marked. 
-- [Fall 2025 Projects](https://docs.google.com/document/d/e/2PACX-1vS_GJB-I0gnAVCP2OyoTiOutkprsqXx9XK6gheW52dpHPGs1ZWNBUW0AoLAeY4B1y3Mkt-NzZxMftm7/pub)
+- [Spring 2026 Projects] (https://drive.google.com/drive/folders/12QAVMpdXExWwBSbvvnsNkKs7iAHydKqJ?usp=sharing)
 
 ## External Resources
 - [UR2PhD Website - Undergraduates](https://cra.org/ur2phd/for-undergraduate-students/) Note: You do not need to fill out the general UR2PhD application.
