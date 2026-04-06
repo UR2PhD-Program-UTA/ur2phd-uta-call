@@ -6,6 +6,7 @@
 * **Title**
 * **Faculty mentor** (and lab/group if helpful)
 * **Program track:** Classic CSE Dept REU **or** UR2PhD
+* **Graduate mentor name (if applicable)** -- Name + Email
 * **Undergraduate(s) identified (if applicable)** -- Name + Email
 * **Project summary (abstract-level, 150–250 words):** written for a mixed CSE audience. State the problem, your approach, and why it matters.
 
@@ -33,7 +34,7 @@
 
 * **Required student deliverables (must include):**
   * **Final deliverable package:** poster PDF + 1–2 page summary + link to artifacts (repo, design files, dataset, etc.)
-  * **Presentation:** Innovation Day (April 14, 2026) or another approved venue/conference
+  * **Presentation:** In the Spring Innovation Day (~April 14, 2027) or another approved venue/conference
 * **Stretch outcomes (optional):** demo, workshop submission, paper outline, open-source release, dataset release
 ---
 
