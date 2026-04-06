@@ -5,11 +5,11 @@ title: Faculty Call – UR2PhD + REU at UTA
 
 # Call for Faculty Proposals – Undergraduate Research Opportunities
 
-We invite UTA faculty to submit proposals to lead a **UR2PhD research cohort** or a classic **CSE Dept REU** during **Spring 2026**.
+We invite UTA faculty to submit proposals to lead a **UR2PhD research cohort** or a classic **CSE Dept REU** during **Summer 2026**.
 - [Application Form](https://forms.office.com/r/RzaKTe3zuZ)
 - [Proposal Template](template.html)
   
-**For due dates and timelines, please review the [timetable](index.html).**
+**For due dates and timelines, please review the [timetable](summer2026-timeline.html).**
 
 
 Both programs offer the same compensation to undergraduates and use the same application materials. The key difference is staffing: UR2PhD requires an eligible graduate mentor, which is often the limiting factor since students must be able to work (as independent contractors paid by CRA, no CPT). 
