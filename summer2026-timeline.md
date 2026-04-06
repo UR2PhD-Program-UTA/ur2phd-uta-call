@@ -12,10 +12,6 @@
 * **April 30 (Thursday):** Undergraduate applications due (UR2PhD or classic REU)
 * **May 1 – May 5:** Faculty review undergraduate applicants
 * **May 6 – May 11:** Offer notifications (rolling)
-
-### **Final Matching + Notifications**
-
-* **May 12 – May 14:** Waitlist movement, confirmations, onboarding
 * **May 15 (Friday):** Other notifications
 
 ### **Final Rosters**
