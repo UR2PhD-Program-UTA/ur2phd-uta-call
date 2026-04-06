@@ -1,5 +1,5 @@
 # UR2PhD Proposal
-[Application Form](https://forms.office.com/r/RzaKTe3zuZ) **due Jan 19**
+[Application Form](https://forms.office.com/r/RzaKTe3zuZ) **due April 20**
 
 **For due dates and timelines, please review the [timetable](index.html).**
 
@@ -42,14 +42,14 @@ To receive the **$1,000 stipend** (paid directly by CRA), mentors must:
 Undergrads will also enroll in a national virtual course.
 **For course dates/times, please review the [timetable](index.html).**
 
-Undergraduates who complete the course will receive a **$500 scholarship**, disbursed via myMav in Spring 2026.
+Undergraduates who complete the course will receive a **$500 scholarship**, disbursed via myMav in Fall 2026.
 
 Completion requirements:
 
 - Attend and engage in sessions  
 - Complete all coursework (Grade: 70+)
 - Have no more than 2 unexcused absences
-- Present at Innovation Day (April 14, 2026) or other conference 
+- Present at Innovation Day in the Spring (~April 14, 2027) or other conference 
 
 # Additional Benefits
 
