@@ -14,11 +14,5 @@
 * **May 6 – May 11:** Offer notifications (rolling)
 * **May 15 (Friday):** Other notifications
 
-### **Final Rosters**
-
-* **May 20 (Wednesday):** Final participant names due
-
 ### **Deliverables**
-
-* **August 5:** Innovation Day Presentation (both tracks)
 * **August 15:** Submittables due (Poster + Summary) to cearto@uta.edu *(classic REU only)*
