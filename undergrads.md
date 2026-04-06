@@ -6,7 +6,7 @@ title: Undergraduate Call - Research Experiences at CSE UTA
 # Call for Undergraduate Applications - Research Experiences
 
 Are you a CSE undergraduate interested in research and graduate school? Apply to join a **UR2PhD research cohort** or a **classic CSE Dept REU** this semester!
-- [Undergrad Application Form](https://forms.office.com/r/zA3XusdpS1) **due Jan 30** 
+- [Undergrad Application Form](https://forms.office.com/r/zA3XusdpS1) **due April 30** 
 
 ## Timeline
 **For due dates and timelines, please review the [timetable](index.html).**
@@ -16,9 +16,8 @@ Are you a CSE undergraduate interested in research and graduate school? Apply to
 ### For the Classic CSE Dept REU
 - For international students: The CSE Department REU is treated as training, so there is no program-imposed 20-hour limit. Still, please confirm with OIE that participation fits your visa situation.
 - Commit to work on a research project through the semester
-- Submit a mid-semester milestone (1 page plan + current results) by March 11. 
-- Submit a final deliverable package: poster PDF + 1-2 page summary + link to artifacts (repo, design files, dataset, etc.)
-- Present at Innovation Day (April 14, 2026) or other conference
+- Submit a final deliverable package: poster PDF + 1-2 page summary + link to artifacts (repo, design files, dataset, etc.) to cearto@uta.edu
+- Present at Innovation Day (~April 14, 2027) or other conference
 
 ### For the UR2PhD Program
 - For international students: Participation counts toward the 20 hours/week on-campus employment limit. Your total hours across this program plus any other on-campus work (paid or unpaid) must be 20 hours/week or less. If you plan to count hours already worked in a GRA position, that is allowed, but you cannot exceed 20 total hours/week. CPT is not supported by this program. 
@@ -28,7 +27,7 @@ Are you a CSE undergraduate interested in research and graduate school? Apply to
 - Enroll in a virtual course. **For course dates and timelines, please review the [timetable](index.html).**
 - Must have **no more than 2 unexcused absences**, complete all assignments, pass course (70+)
 - Note: The course does not count towards UTA credit or your GPA; it is adminstered by the CRA organization.
-- Present at Innovation Day (April 14, 2026) or other conference
+- Present at Innovation Day (~April 14, 2027) or other conference
 
 ## Compensation
 Students who complete the course will receive a **$500 scholarship**, posted to their myMav account in the next semester.
@@ -62,6 +61,7 @@ The application will ask you for:
 * For international students, it is treated as training, so there is **no program-imposed 20-hour limit**, but you should still confirm eligibility with OIE
 
 ## Available Faculty Projects
+- Summer 2027 Projects -- To be released April 23.
 - [Spring 2026 Projects](https://drive.google.com/drive/folders/12QAVMpdXExWwBSbvvnsNkKs7iAHydKqJ?usp=sharing)
 
 ## External Resources
