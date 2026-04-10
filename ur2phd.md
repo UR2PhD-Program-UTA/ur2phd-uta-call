@@ -42,7 +42,7 @@ To receive the **$1,000 stipend** (paid directly by CRA), mentors must:
 Undergrads will also enroll in a national virtual course.
 **For course dates/times, please review the [timetable](index.html).**
 
-Undergraduates who complete the course will receive a **$500 scholarship**, disbursed via myMav in Fall 2026.
+Undergraduates who complete the course will receive a ~~**$500 scholarship**~~ **$660 scholarship, starting Summer cycle **, disbursed via myMav in Fall 2026.
 
 Completion requirements:
 
