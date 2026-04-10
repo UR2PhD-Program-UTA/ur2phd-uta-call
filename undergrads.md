@@ -30,7 +30,8 @@ Are you a CSE undergraduate interested in research and graduate school? Apply to
 - Present at Innovation Day (~April 14, 2027) or other conference
 
 ## Compensation
-Students who complete the course will receive a **$500 scholarship**, posted to their myMav account in the next semester.
+Students who complete the course will receive a ~~**$500 scholarship**~~ 
+**$660 scholarship, starting Summer cycle **, posted to their myMav account in the next semester.
 
 ## How to Apply
 Students may apply to **only one** project. Submit your materials using the [Undergrad Application Form](https://forms.office.com/r/zA3XusdpS1) 
