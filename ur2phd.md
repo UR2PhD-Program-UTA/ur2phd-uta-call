@@ -18,8 +18,8 @@ The UR2PhD program requires a cohort. The cohort engages in a semester-long ment
 
 ## Benefits
 - $1,000 stipend for the grad mentor  
-- $500 scholarship for each undergrad  
-- Additional undergrads may join your project but must be supported with $500/student from non-grant funds (e.g., startup, IDC)
+- ~~$500 scholarship~~$660 scholarship, starting Summer cycle for each undergrad  
+- Additional undergrads may join your project but must be supported with $660/student from non-grant funds (e.g., startup, IDC)
 
 > **Note:** If undergraduates are not identified at submission, we will issue a call to CSE undergrads, gather applications, and allow you to select students.
 
